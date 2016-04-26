@@ -1,0 +1,16 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "humor": "dark",
+      "genre": "Sci-Fi",
+      "contents": "$char$ was a strange little boy. He thought he was a robot for half of his life, until one day... the end."
+    },
+    {
+      "id": 2,
+      "humor": "dark",
+      "genre": "Horror",
+      "contents": "Once there was an ugly $char$. He was so ugly that everyone died. The end."
+    }
+  ]
+}
